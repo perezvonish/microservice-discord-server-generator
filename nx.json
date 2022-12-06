@@ -56,5 +56,5 @@
     ],
     "sharedGlobals": []
   },
-  "defaultProject": "auth"
+  "defaultProject": "api"
 }

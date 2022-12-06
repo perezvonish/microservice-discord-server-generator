@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx run-many --target=serve --projects= --parallel\n", //todo изменять все время сервисы
+    "start": "nx run-many --target=serve --projects=api --parallel\n",
     "build": "nx build",
     "test": "nx test",
     "lint": ""
